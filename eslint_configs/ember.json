@@ -1,0 +1,11 @@
+{
+  "parserOptions": {
+    "sourceType": "module"
+  },
+
+  "rules": {
+    "no-invalid-this": 0,
+    "no-underscore-dangle": 0,
+    "array-callback-return": 1
+  }
+}
